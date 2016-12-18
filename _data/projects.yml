@@ -1,0 +1,23 @@
+- name: 'Train Yourself'
+  i18n: 'tranyourself'
+  url: '/prateekk91/TrainYourselfCSharp'
+  img: 'static/img/landing/trainyourself.jpg'
+  desc: 'Designed and implemented heuristics in C# to determine accuracy of human body postures while exercising in front of Kinect. The feedback was sent via Web Sockets to an application running on a Google Glass.'
+
+- name: 'LLVM Static Analysis'
+  i18n: 'llvm'
+  url: '/prateekk91/LLVMStaticAnalysis'
+  img: 'static/img/landing/llvm.jpg'
+  desc: "Implemented a Dataflow Analysis Framework for intra-procedural program analysis for LLVM compiler, and created clients to perform optimizations: Constant Propagation, Common Subexpression Elimination, Range Analysis."
+
+- name: 'Battle Field'
+  i18n: 'battlefield'
+  url: 'prateekk91/BattleField'
+  img: 'static/img/landing/battlefield.jpg'
+  desc: "Designed a board game in Java using socket programming. Requires C++ bots implementing AI Game Tree algorithms to interact with a UI based online judge."
+
+- name: 'Change Impact Analysis'
+  i18n: 'changeimpactanalysis'
+  url: 'prateekk91/ChangeImpactAnalysis'
+  img: 'static/img/landing/changeimpact.jpg'
+  desc: "Change Impact Analysis and its Regression Test Effort Estimation aims at reducing cost of software maintenance by reducing effort in regression testing. It was my undergraduate research project and was published as an IEEE Research Paper."

@@ -1,0 +1,55 @@
+- name:
+    detail: Yahoo! Inc.
+    i18n: yahoo
+  desc:
+    detail: I did my Summer Internship 2016 with Yahoo, where I worked on a Distributed Storage Platform.
+    i18n: yahoo_des
+  date:
+    detail: Jun. 2016 - Sep. 2016
+    i18n: yahoo_date
+  job:
+    detail: C++ Developer
+    i18n: yahoo_job
+  icon: fa-plus-square
+
+- name:
+    detail: Adobe Systems
+    i18n: adobe
+  desc:
+    detail: Designed and Developed Adobe Scan for Android, as a developer in the Adobe Reader team for Android.
+    i18n: adobe_des
+  date:
+    detail: Jun. 2014 - Aug. 2015
+    i18n: adobe_date
+  job:
+    detail: Android Developer
+    i18n: adobe_job
+  icon: fa-gamepad
+
+- name:
+    detail: Goldman Sachs
+    i18n: goldman
+  desc:
+    detail: Optimised MySQL queries, and added functionalities to Desktop and Web applications at the Investment Banking Division at Goldman Sachs.
+    i18n: goldman_des
+  date:
+    detail: Jun. 2013 - May 2014
+    i18n: goldman_date
+  job:
+    detail: Full Stack Developer
+    i18n: goldman_job
+  icon: fa-cloud
+
+- name:
+    detail: Graduation
+    i18n: college
+  desc:
+    detail: In May 2013,I graduated from undergraduate college and started my career in the industry.
+    i18n: college_des
+  date:
+    detail: May 2013
+    i18n: college_date
+  job:
+    detail: Student
+    i18n: college_job
+  icon: fa-book

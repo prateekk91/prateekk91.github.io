@@ -1,0 +1,26 @@
+- name: Android
+  percentage: 80
+
+- name: Java
+  percentage: 85
+
+- name: C++
+  percentage: 75
+
+- name: Linux
+  percentage: 70
+
+- name: Html
+  percentage: 60
+
+- name: Php
+  percentage: 65
+
+- name: C#
+  percentage: 70
+
+- name: Javascript
+  percentage: 65
+
+- name: Bash
+  percentage: 70
